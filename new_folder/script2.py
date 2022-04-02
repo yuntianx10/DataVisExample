@@ -1,1 +1,0 @@
-print("Test the script")
